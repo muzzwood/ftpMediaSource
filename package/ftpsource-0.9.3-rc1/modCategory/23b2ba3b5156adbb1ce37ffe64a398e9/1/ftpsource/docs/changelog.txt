@@ -1,0 +1,17 @@
+Creates an FTP Mediasource for MODX
+
+-----
+
+Version 0.9.3
+- Changed FTP Directorylisting detection, switch to directorys before reading
+
+Version 0.3.0
+- Functions NYI: edit (quickedit works)
+
+Version 0.2.0
+- Functions NYI: create, rename, move
+
+
+Version 0.1.0
+- Initial Release
+- Functions NYI: upload, download, create, rename, move
